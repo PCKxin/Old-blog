@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://pckxin.pro/categories/index.html</loc>
     
     <lastmod>2021-01-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://pckxin.pro/tags/index.html</loc>
     
     <lastmod>2021-01-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/link/index.html</loc>
+    <loc>http://pckxin.pro/link/index.html</loc>
     
     <lastmod>2021-01-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2021/01/05/0201/</loc>
+    <loc>http://pckxin.pro/2021/01/05/0201/</loc>
     
     <lastmod>2021-01-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/07/29/hello-world/</loc>
+    <loc>http://pckxin.pro/2020/07/29/hello-world/</loc>
     
     <lastmod>2020-07-29</lastmod>
     
@@ -38,16 +38,16 @@
   
 
   <url>
-    <loc>http://yoursite.com/</loc>
-    <lastmod>2021-01-11</lastmod>
+    <loc>http://pckxin.pro/</loc>
+    <lastmod>2021-01-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://yoursite.com/tags/Archives/</loc>
-    <lastmod>2021-01-11</lastmod>
+    <loc>http://pckxin.pro/tags/Archives/</loc>
+    <lastmod>2021-01-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
